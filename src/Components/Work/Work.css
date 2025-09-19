@@ -1,0 +1,39 @@
+/* Global XP subwindow style */
+.xp-subwindow {
+    background: #e0e9f8;
+    border: 2px solid #3a6ea5;
+    box-shadow: inset -2px -2px 0 #fff, inset 2px 2px 0 #666;
+    padding: 12px;
+    border-radius: 4px;
+}
+
+.xp-heading {
+    font-family: Tahoma, Geneva, sans-serif;
+    font-size: 14px;
+    font-weight: bold;
+    color: #003399;
+    margin-bottom: 8px;
+    border-bottom: 1px solid #7ba7e1;
+    padding-bottom: 4px;
+}
+
+/* Section-specific tweaks */
+.blog-style {
+    background: #fffbe0;
+    border-color: #e6c200;
+}
+
+.booking-style {
+    background: #e7f7e0;
+    border-color: #4caf50;
+}
+
+.admin-style {
+    background: #f0e0f7;
+    border-color: #8e44ad;
+}
+
+.seo-style {
+    background: #fceaea;
+    border-color: #e74c3c;
+}
